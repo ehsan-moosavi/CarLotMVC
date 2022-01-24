@@ -1,0 +1,13 @@
+C:\Users\eh\source\repos\AutoLotWCFService\AutoLotDAL.Models\bin\Debug\AutoLotDAL.Models.dll.config
+C:\Users\eh\source\repos\AutoLotWCFService\AutoLotDAL.Models\bin\Debug\AutoLotDAL.Models.dll
+C:\Users\eh\source\repos\AutoLotWCFService\AutoLotDAL.Models\bin\Debug\AutoLotDAL.Models.pdb
+C:\Users\eh\source\repos\AutoLotWCFService\AutoLotDAL.Models\bin\Debug\AutoMapper.dll
+C:\Users\eh\source\repos\AutoLotWCFService\AutoLotDAL.Models\bin\Debug\EntityFramework.dll
+C:\Users\eh\source\repos\AutoLotWCFService\AutoLotDAL.Models\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\eh\source\repos\AutoLotWCFService\AutoLotDAL.Models\bin\Debug\AutoMapper.xml
+C:\Users\eh\source\repos\AutoLotWCFService\AutoLotDAL.Models\bin\Debug\EntityFramework.xml
+C:\Users\eh\source\repos\AutoLotWCFService\AutoLotDAL.Models\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\eh\source\repos\AutoLotWCFService\AutoLotDAL.Models\obj\Debug\AutoLotDAL.Models.csprojAssemblyReference.cache
+C:\Users\eh\source\repos\AutoLotWCFService\AutoLotDAL.Models\obj\Debug\AutoLotDAL.Models.csproj.CopyComplete
+C:\Users\eh\source\repos\AutoLotWCFService\AutoLotDAL.Models\obj\Debug\AutoLotDAL.Models.dll
+C:\Users\eh\source\repos\AutoLotWCFService\AutoLotDAL.Models\obj\Debug\AutoLotDAL.Models.pdb
